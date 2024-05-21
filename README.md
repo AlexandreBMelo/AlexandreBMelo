@@ -16,7 +16,7 @@ Vamos construir algo incrível juntos!
 
 ## 💻 Github Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlexandreBMelo&show_icons=true&theme=highcontrast&bg_color=00000000&locale=pt-br)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlexandreBMelo&show_icons=true&theme=highcontrast&locale=pt-br)
 
 ## 📲 Contato
 
