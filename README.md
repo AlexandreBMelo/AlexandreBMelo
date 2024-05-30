@@ -18,6 +18,10 @@ Vamos construir algo incrível juntos!
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlexandreBMelo&locale=pt-br&bg_color=000&title_color=FFF&text_color=FFF&show_icons=true&icon_color=FFF)
 
+## 👨‍💻 Linguagens mais usadas 
+
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SEUUSERNAME&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+
 
 ## 🤹‍♂️ Habilidades 
 ![Markdown](https://img.shields.io/badge/Markdown-FFF?style=for-the-badge&logo=markdown&color=000)
