@@ -1,6 +1,6 @@
 # Alexandre Melo
 
-System.out.println("👋 Olá, eu sou o Alexandre Melo!")
+System.out.println("👋 Olá, eu sou o Alexandre Melo!");
 
 🎓 Estudante de Sistemas para Internet <br>
 💻 Apaixonado por tecnologia e desenvolvimento web <br>
