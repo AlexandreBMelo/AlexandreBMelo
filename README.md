@@ -36,8 +36,6 @@ Vamos construir algo incrível juntos!
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-000?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5575981649727)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/alx.mlo/)
 
-![Linkedin](<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-<div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="alexandre-melo-1b9118214" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/alexandre-melo-1b9118214?trk=profile-badge">Alexandre Melo</a></div>)
               
 
 
